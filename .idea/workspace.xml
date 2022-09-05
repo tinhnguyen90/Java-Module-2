@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5fe3771-33fd-472b-a4ed-63a474f550f4" name="Changes" comment="Tuan 1" />
+    <list default="true" id="d5fe3771-33fd-472b-a4ed-63a474f550f4" name="Changes" comment="Tuan 1">
+      <change afterPath="$PROJECT_DIR$/out/production/Week1/Thuchanh1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dientichhinhchunhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Giaiphuongtrinhbacnhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinhcannang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinhnamnhuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinhsongaytrongthang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuyendoitiente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuyensothanhchu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,14 +43,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.chuyendoitiente">
+    <configuration name="Dientichhinhchunhat" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dientichhinhchunhat" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Thuchanh1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Thuchanh1" />
       <module name="Week1" />
@@ -45,6 +72,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tinhcannang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tinhcannang" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tinhnamnhuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tinhnamnhuan" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tinhsongaytrongthang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tinhsongaytrongthang" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chuyendoitiente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chuyendoitiente" />
+      <module name="Week1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.chuyendoitiente" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Tinhcannang" />
+        <item itemvalue="Application.Tinhnamnhuan" />
+        <item itemvalue="Application.Tinhsongaytrongthang" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662348333412</updated>
       <workItem from="1662348335287" duration="1427000" />
+      <workItem from="1662349832361" duration="8270000" />
     </task>
     <task id="LOCAL-00001" summary="Tuan 1">
       <created>1662349162309</created>
@@ -84,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662349737807</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tuan 1">
+      <created>1662349882421</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662349882421</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
