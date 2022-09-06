@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5fe3771-33fd-472b-a4ed-63a474f550f4" name="Changes" comment="Tuan 1">
+      <change afterPath="$PROJECT_DIR$/src/Mang/daonguocmang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mang/giatrinhonhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mang/timgiatrilonnhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vonglap/kiemtrasonguyento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vonglap/thietkemenuchoungdung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vonglap/timuocchunglonnhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vonglap/tinhtienlaichovay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vonglap/vetamgiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vonglap/vetamgiaccan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chuyensothanhchu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chuyensothanhchu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dientichhinhchunhat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Giaiphuongtrinhbacnhat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thuchanh1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinhcannang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinhnamnhuan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinhsongaytrongthang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chuyendoitiente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chuyensothanhchu.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,23 +58,9 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.chuyensothanhchu">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
-      <module name="Week1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.timgiatrilonnhat">
     <configuration name="Dientichhinhchunhat" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dientichhinhchunhat" />
-      <module name="Week1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="Week1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,34 +73,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tinhcannang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tinhcannang" />
+    <configuration name="daonguocmang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mang.daonguocmang" />
       <module name="Week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chuyendoitiente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chuyendoitiente" />
+    <configuration name="giatrinhonhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mang.giatrinhonhat" />
       <module name="Week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chuyensothanhchu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chuyensothanhchu" />
+    <configuration name="timgiatrilonnhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mang.timgiatrilonnhat" />
       <module name="Week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vetamgiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vonglap.vetamgiac" />
+      <module name="Week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vonglap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vetamgiaccan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vonglap.vetamgiaccan" />
+      <module name="Week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vonglap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.chuyensothanhchu" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.chuyendoitiente" />
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Tinhcannang" />
+        <item itemvalue="Application.timgiatrilonnhat" />
+        <item itemvalue="Application.daonguocmang" />
+        <item itemvalue="Application.giatrinhonhat" />
+        <item itemvalue="Application.vetamgiaccan" />
+        <item itemvalue="Application.vetamgiac" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +157,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662348333412</updated>
       <workItem from="1662348335287" duration="1427000" />
-      <workItem from="1662349832361" duration="9107000" />
+      <workItem from="1662349832361" duration="9816000" />
+      <workItem from="1662430720491" duration="10408000" />
     </task>
     <task id="LOCAL-00001" summary="Tuan 1">
       <created>1662349162309</created>
@@ -153,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662373289233</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tuan 1">
+      <created>1662428810415</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662428810415</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
